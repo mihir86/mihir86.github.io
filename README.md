@@ -1,2 +1,3 @@
-# MihirBansal.github.io
-Personal website
+# Personal website
+https://mihir86.github.io
+
