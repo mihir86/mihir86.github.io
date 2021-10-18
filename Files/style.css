@@ -619,8 +619,8 @@ body.skills           div.menu li.skills          a {
 .hentry .featured-thumbnail { margin-bottom: 25px; }
 .hentry .archive-thumbnail {
   float: left;
-  width: 250px;
-  height: 250px;
+  width: 25%;
+  height: 35%;
   margin: 3px 25px 10px 0;
 }
 .hentry .home-thumbnail {
@@ -834,8 +834,8 @@ li.image {
     position: relative;
   }
   .hentry .archive-thumbnail {
-    width: 110px;
-    height: 110px;
+    width: 1%;
+    height: 1%;
   }
   #site-description { font-size: 1.3em; }
   #menu-primary {
