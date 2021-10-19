@@ -834,8 +834,8 @@ li.image {
     position: relative;
   }
   .hentry .archive-thumbnail {
-    width: 1%;
-    height: 1%;
+    width: 25%;
+    height: 35%;
   }
   #site-description { font-size: 1.3em; }
   #menu-primary {
