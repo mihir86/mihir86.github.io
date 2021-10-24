@@ -619,8 +619,8 @@ body.skills           div.menu li.skills          a {
 .hentry .featured-thumbnail { margin-bottom: 25px; }
 .hentry .archive-thumbnail {
   float: left;
-  width: 25%;
-  height: 35%;
+  width: 15%;
+  height: 20%;
   margin: 3px 25px 10px 0;
 }
 .hentry .home-thumbnail {
