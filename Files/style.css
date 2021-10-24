@@ -1158,14 +1158,15 @@ li a:hover{
 }
 
 .company-logo {
+  display: block;
   float: right;
-  height: auto;
-  width: 120px;
+  height: 30%;
+  width: 30%;
 }
 
 .exp-desc {
   width: 80%;
-  text-align: justify;
+  text-align: left;
   padding-top: 10px;
 }
 
@@ -1229,11 +1230,17 @@ a.bullet-points:hover {
 .pssi {
   margin-top: 2%;
 }
-.ncs {
-  margin-top: 3%;
+.ceeri {
+  height: 15%;
+  width: 15%;
+  margin-top: 1%;
+  margin-right: -5%;
 }
-.gt-gra {
-  margin-top: 9.5%;
+.msft {
+  height: 25%;
+  width: 25%;
+  margin-top: 1%;
+  margin-right: -10%;
 }
 .color-black {
   color: black;
